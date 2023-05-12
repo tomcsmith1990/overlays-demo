@@ -1,6 +1,6 @@
 {
     "overlays": {
-        "eu": ["core", "eu"],
-        "us": ["core", "us"]
+        "emea": ["core", "emea"],
+        "china": ["core", "china"]
     }
 }
